@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: darkgray;
+}
+h1{
+    color: black;
+    font-style: oblique;
+}
+p{
+    column-width: 30px;
+    column-count: 1;
+    text-align: justify;
+    font: normal 100%/1.5 ;
+    color: midnightblue;
+    width: 100px;
+}
+div{
+    color: whitesmoke;
+    border: 5px;
+    font: normal 16px/20px "helvetica neue", helvetica, arial, sans-serif;
+}

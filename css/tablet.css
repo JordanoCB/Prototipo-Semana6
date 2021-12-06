@@ -1,0 +1,16 @@
+body{
+    -webkit-text-size-adjust: none;
+    background: lightgray;
+    padding: 20px 5px 5px;
+}
+h1{
+    color: lavender;
+    text-shadow: 0 0 5px black;
+    font-style: initial;
+}
+div{
+    color: whitesmoke;
+    border: 5px outset greenyellow;
+    font: normal 16px/20px ;
+}
+@media(max-width: 400px)
